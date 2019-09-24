@@ -16,20 +16,26 @@ The purpose of this project is both to make an open-sourced implementation of ga
 ## Methodologies
 
 Various analysis methodologies from a myriad of published research papers will be visited and applied as it is or in a combination of some form. Good tested combinations of methodologies will be noted with their respective performances.
+All approaches will be implemented in PythonP
 
-Dataset: Raw Time series data of 424,400 'Walking' data points. (Credited down below)
+Dataset: Raw Time series data of 424,400 'Walking' data points. (Credited down below)\
+Data Description: User_id | Movement_class | Time_stamp | X-acceleration | Y-acceleration | Z-acceleration)
 
-#### Average Cycle detection + Discrete fourier Transform + Euclidean distance
+<img src="https://github.com/tharminhtet/Accelerometer-Based-Gait-Recognition/blob/master/images/sample%20data.png" height="400" width="700">
+
+**Figure: Plot of 100 continuous datapoints**
+
+#### Average Cycle detection + Discrete fourier Transform + Euclidean distance (will be updated)
 
 ## Authors
 * **Thar Min Htet**
 
 ## Credits
 Special thanks to Professor.Emmanuel Agu for advising this project\
-DATASET: [WISDM](http://www.cis.fordham.edu/wisdm/dataset.php)
+DATASET: [WISDM](http://www.cis.fordham.edu/wisdm/dataset.php | width=100)
 
 
 ### Reference
-1. Accelerometer-Based Gait Analysis, A survey
-2. Eigensteps: A giant leap for gait recognition
-3. CyclePro: A Robust Framework for Domain-Agnostic Gait Cycle Detection
+1. [Accelerometer-Based Gait Analysis, A survey](https://pdfs.semanticscholar.org/509a/4845cf3348837b4a2c0bbf19109449afa39f.pdf)
+2. [Eigensteps: A giant leap for gait recognition](https://www.researchgate.net/publication/224151313_Eigensteps_A_giant_leap_for_gait_recognition)
+3. [CyclePro: A Robust Framework for Domain-Agnostic Gait Cycle Detection](http://epsl.eecs.wsu.edu/wp-content/uploads/2015/03/08616844.pdf)
