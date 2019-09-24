@@ -33,7 +33,7 @@ Data Description: User_id | Movement_class | Time_stamp | X-acceleration | Y-acc
 
 ## Credits
 Special thanks to Professor.Emmanuel Agu for advising this project\
-DATASET: [WISDM](http://www.cis.fordham.edu/wisdm/dataset.php | width=100)
+DATASET: [WISDM](http://www.cis.fordham.edu/wisdm/dataset.php)
 
 
 ### Reference
