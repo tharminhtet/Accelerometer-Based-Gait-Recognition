@@ -1,7 +1,8 @@
 # Accelerometer-Based Gait Recognition
 Senior Year capstone research project (MQP)\
 **Goal**: Analyze gait patterns and Build a machine learning/deep learning system to identify subjects based on their gait\
-**Stretch Goals**: Apply learned model and Build a mobile application that pops up "Hello [User]" once if it recogizes gait of the person on the phone
+**Stretch Goals**: Apply learned model and Build a mobile application that pops up "Hello [User]" once if it recogizes gait of the person on the phone\
+**Development Status**: Currently an early stage project. Expected to complete by March 2020.
 
 ## Motivation
 
